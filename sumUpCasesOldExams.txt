@@ -1,0 +1,45 @@
+03_07_2017 ->   es1 ->  Two-ways ANOVa + Bonferroni
+	        es2 ->  Paired data + T2-Simultaneous
+		es3 ->  Clustering(hier. choose) + univariate Bonferroni CI +
+			multivariate Bonferroni (two indip. gaussians)
+		es4 ->  Linear Models + Hyp.Testing
+
+06_07_2021 ->   es1 ->  Multivariate normal distribution (Lab5) + Bonferroni 
+			+ t-test(univariate gaussian) or mean of sum of gaussians +
+			drawing reject region
+		es2 ->  QDA classifier + AER(Cross-v) + linear svm
+		es3 ->  Linear Model(estimated parameters 1 factor) + testing 90% 
+			with Hyp.Testing + Confidence Interval for prediction
+		es4 ->  Geostatistics OK and UK + choose the model + predictions
+
+06_09_2021 ->   es1 ->  Clustering(hier. complete Euclidian) + MANOVA one-way on clusters +
+			Bonferroni on mean difference
+		es2 ->  not done this year
+		es3 ->  Linear Models(estimated parameters 1 factor) +  Hyp.Testing + 
+			Prediction Intervals
+		es4 ->  smoothing(nbasis) + FPCA + interpretations
+
+07_09_2020 ->   es1 ->  PCA
+		es2 ->  Two Indip. muktivariate Gaussian distributions (p=2) + 
+			Bonferroni + t-test(two univariate gaussian) for INEQUALITY
+		es3 ->  Linear model + testing 99% 
+			with Hyp.Testing + Confidence Interval for prediction
+		es4 ->  smoothing(nbasis) + CrossValidation + pointwise confidence intervals +
+			first derivative + lambda parameter for smoothing derivatives
+
+16_06_2022 ->	es1 ->  Paired data + Bonferroni on mean and variance + drawing confidence region
+		es2 ->  Classification(LDA) + CV on AER + predictions(Posterior) +
+			linear SVM + CV on SVM
+		es3 ->  Linear Model + testing + Linear mixed models (PVRE)
+		es4 ->  Smoothing(nBasis) + FPCA + interpretations
+
+12_07_2022 ->   es1 ->  PCA + interpretation with Categorical var + linear SVM
+		es2 ->  clustering(hierarchical eucl.) + MANOVA + centers and confidence region
+		es3 ->  linear models (all operator) + Lasso + prediction with Lasso
+		es4 ->  Geostatistics UK (2 factors) + choose the best model
+
+
+
+
+
+
